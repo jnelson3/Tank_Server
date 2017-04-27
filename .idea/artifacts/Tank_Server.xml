@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="Tank_Server">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tank_Server</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Tank_Server" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="com.google.appengine:appengine-api-1.0-sdk:Release" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
